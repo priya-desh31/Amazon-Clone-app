@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/back.xml" value="0.1635" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/bg_color.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/button_logout_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/cartlayoutbg.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/edittextshape.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/intro_signin.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/intro_signup.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/menu_icon_addprod.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/menu_icon_home.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/menu_icon_mycart.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/menu_icon_profile.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/menu_icon_search.xml" value="0.166" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/profileshape.xml" value="0.1605" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/shapedialog.xml" value="0.1605" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/shapenobtn.xml" value="0.1605" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/drawable/shapeyesbtn.xml" value="0.1605" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_add_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_base.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_place_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_product_adapter.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_product_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_register_activitynew.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_show_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/cart_items_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/dialog_layout.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/image_sliderlayout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/orderhistory_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/related_products_adapter.xml" value="0.253125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/slide_images.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AmazonApp2/app/src/main/res/layout/view_products_adapter.xml" value="0.18984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
